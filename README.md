@@ -4,11 +4,15 @@ k-means calculator for log files
 
 ##Usage
 
-run command - python calculate.py filteredLog
-
-For testing purposes I've used a filtered log from apache log-dump
+python calculate.py filteredLog
+##About
+This small program calculates the number of unique log error messages in files.
 
 Number of unique elements will be returned which can be used for k means clustering.
+##Appendix
+filteredLog - Processed log file
+
+DefaultLog - Default apache log dump
 
 ##IMPORTANT
 
