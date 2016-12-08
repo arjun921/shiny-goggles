@@ -4,7 +4,8 @@ k-means calculator for log files
 
 ##Usage
 
-run command - python calculate.py <logFile>
+run command - python calculate.py logFile
+For testng purposes I've used filteredLog from apache 
 Number of unique elements will be returned which can be used for k means clustering.
 
 ##IMPORTANT
