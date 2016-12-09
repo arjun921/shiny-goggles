@@ -1,0 +1,178 @@
+[Sat Sep 27 21:17:52 2014] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Sat Sep 27 21:37:39 2014] [error] [client 69.22.254.215] File does not exist: /var/www/favicon.ico
+[Sat Sep 27 21:37:46 2014] [error] [client 69.22.254.215] File does not exist: /var/www/cypress
+[Sat Sep 27 21:37:53 2014] [error] [client 69.22.254.215] File does not exist: /var/www/cypress
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/scripts/setup.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\rscripts/setup.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/scripts/setup.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\rscripts/setup.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:41 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:42 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:43 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:44 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:45 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:46 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:47 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:48 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:49 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:50 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:51 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:52 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:53 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:54 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:55 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:56 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:57 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:58 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:40:59 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:41:00 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:41:00 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:41:00 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 00:41:00 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/index.php
+[Sun Sep 28 00:41:00 2014] [error] [client 213.33.130.90] File does not exist: /var/www/pma, referer: http://50.57.49.243/pma/\r/index.php
+[Sun Sep 28 05:31:02 2014] [error] [client 116.72.144.162] File does not exist: /var/www/backend, referer: http://shervilas.com/jquery/jquery-ui.css
+[Sun Sep 28 05:47:26 2014] [error] [client 198.12.87.152] File does not exist: /var/www/phpmyadmin
+[Sun Sep 28 10:12:35 2014] [error] [client 202.131.119.198] File does not exist: /var/www/backend, referer: http://www.shervilas.com/jquery/jquery-ui.css
+[Sun Sep 28 10:12:56 2014] [error] [client 202.131.119.198] File does not exist: /var/www/backend, referer: http://www.shervilas.com/jquery/jquery-ui.css
+[Sun Sep 28 10:56:22 2014] [error] [client 1.22.168.144] File does not exist: /var/www/backend, referer: http://shervilas.com/jquery/jquery-ui.css
+[Sun Sep 28 12:24:54 2014] [error] [client 120.61.169.172] File does not exist: /var/www/backend, referer: http://shervilas.com/jquery/jquery-ui.css
+[Sun Sep 28 15:04:19 2014] [error] [client 1.39.15.54] File does not exist: /var/www/backend, referer: http://shervilas.com/
+[Sun Sep 28 15:13:08 2014] [error] [client 67.211.230.58] script not found or unable to stat: /usr/lib/cgi-bin/wlogin.cgi
+[Mon Sep 29 03:07:00 2014] [error] [client 173.45.100.18] attempt to invoke directory as script: /usr/lib/cgi-bin/
+[Mon Sep 29 03:07:02 2014] [error] [client 173.45.100.18] script not found or unable to stat: /usr/lib/cgi-bin/hi
+[Mon Sep 29 03:41:19 2014] [error] [client 122.177.207.217] File does not exist: /var/www/backend, referer: http://www.shervilas.com/jquery/jquery-ui.css
+[Mon Sep 29 04:47:40 2014] [error] [client 164.100.1.43] File does not exist: /var/www/backend, referer: http://www.shervilas.com/jquery/jquery-ui.css
+[Mon Sep 29 07:06:40 2014] [error] [client 92.106.137.240] File does not exist: /var/www/backend, referer: http://shervilas.com/about
+[Mon Sep 29 07:39:06 2014] [error] [client 115.240.122.114] File does not exist: /var/www/backend, referer: http://www.shervilas.com/
+[Mon Sep 29 08:08:19 2014] [error] [client 71.6.165.200] File does not exist: /var/www/robots.txt
+[Mon Sep 29 08:21:15 2014] [error] [client 123.30.145.15] File does not exist: /var/www/cgi-sys
+[Mon Sep 29 08:21:17 2014] [error] [client 123.30.145.15] File does not exist: /var/www/admin.cgi
+[Mon Sep 29 08:21:21 2014] [error] [client 123.30.145.15] File does not exist: /var/www/tmUnblock.cgi
+[Mon Sep 29 08:21:23 2014] [error] [client 123.30.145.15] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Mon Sep 29 08:21:25 2014] [error] [client 123.30.145.15] script not found or unable to stat: /usr/lib/cgi-bin/hello
+[Mon Sep 29 08:21:27 2014] [error] [client 123.30.145.15] File does not exist: /var/www/cgi-sys
+[Mon Sep 29 08:21:29 2014] [error] [client 123.30.145.15] File does not exist: /var/www/cgi-mod
+[Mon Sep 29 08:21:31 2014] [error] [client 123.30.145.15] script not found or unable to stat: /usr/lib/cgi-bin/test.cgi
+[Mon Sep 29 08:21:33 2014] [error] [client 123.30.145.15] File does not exist: /var/www/cgi-bin-sdb
+[Mon Sep 29 08:21:35 2014] [error] [client 123.30.145.15] attempt to invoke directory as script: /usr/lib/cgi-bin/
+[Mon Sep 29 10:46:23 2014] [error] [client 182.74.235.226] File does not exist: /var/www/backend, referer: http://shervilas.com/jquery/jquery-ui.css
+[Mon Sep 29 11:02:52 2014] [error] [client 211.20.187.129] File does not exist: /var/www/cgi-sys
+[Mon Sep 29 11:04:00 2014] [error] [client 211.20.187.129] File does not exist: /var/www/admin.cgi
+[Mon Sep 29 11:04:53 2014] [error] [client 211.20.187.129] File does not exist: /var/www/tmUnblock.cgi
+[Mon Sep 29 11:05:49 2014] [error] [client 211.20.187.129] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Mon Sep 29 11:07:14 2014] [error] [client 211.20.187.129] script not found or unable to stat: /usr/lib/cgi-bin/hello
+[Mon Sep 29 11:08:58 2014] [error] [client 211.20.187.129] File does not exist: /var/www/cgi-sys
+[Mon Sep 29 11:10:55 2014] [error] [client 211.20.187.129] File does not exist: /var/www/cgi-mod
+[Mon Sep 29 11:12:51 2014] [error] [client 211.20.187.129] script not found or unable to stat: /usr/lib/cgi-bin/test.cgi
+[Mon Sep 29 11:14:35 2014] [error] [client 211.20.187.129] File does not exist: /var/www/cgi-bin-sdb
+[Mon Sep 29 11:16:28 2014] [error] [client 211.20.187.129] attempt to invoke directory as script: /usr/lib/cgi-bin/

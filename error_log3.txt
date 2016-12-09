@@ -1,0 +1,22 @@
+[Mon Aug 06 10:18:30 2007] [notice] Initializing etag from c:/program files/cscopx/mdc/apache/logs/etag-state
+[Mon Aug 06 16:23:31 2007] [error] [client 136.133.248.85] client denied by server configuration: c:/program files/cscopx/htdocs/favicon.ico
+[Mon Aug 06 16:23:31 2007] [error] [client 136.133.248.85] client denied by server configuration: c:/program files/cscopx/cgi-bin/error/403.pl
+[Mon Aug 06 16:33:55 2007] [error] forcing termination of child #0 (handle 468)
+[Mon Aug 06 16:34:30 2007] [notice] Initializing etag from c:/program files/cscopx/mdc/apache/logs/etag-state
+[Mon Aug 06 16:45:10 2007] [error] [client 136.133.248.85] client denied by server configuration: c:/program files/cscopx/htdocs
+[Mon Aug 06 16:45:10 2007] [error] [client 136.133.248.85] client denied by server configuration: c:/program files/cscopx/cgi-bin/error/403.pl
+[Mon Aug 06 16:54:50 2007] [error] [client 10.3.5.15] client denied by server configuration: c:/program files/cscopx/htdocs/favicon.ico
+[Mon Aug 06 16:54:50 2007] [error] [client 10.3.5.15] client denied by server configuration: c:/program files/cscopx/cgi-bin/error/403.pl
+[Thu Aug 09 10:26:17 2007] [error] access to /cwhp/cwhp.applications.do failed for 10.3.0.16, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 10:30:03 2007] [error] forcing termination of child #0 (handle 468)
+[Thu Aug 09 10:45:54 2007] [notice] Initializing etag from c:/program files/cscopx/mdc/apache/logs/etag-state
+[Thu Aug 09 11:08:45 2007] [error] access to /cwhp/cwhp.applications.do failed for 10.3.0.16, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:12:11 2007] [error] access to /cwhp/cwhp.applications.do failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:12:27 2007] [error] access to /cwhp/cwhp.applications.do failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:17:12 2007] [error] access to /favicon.ico failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:17:28 2007] [error] access to /favicon.ico failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:22:13 2007] [error] access to /favicon.ico failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:22:29 2007] [error] access to /favicon.ico failed for 10.3.0.2, reason: \nWARNING: Inside SessionValid...Connect failed. Retrying...\n\n
+[Thu Aug 09 11:26:39 2007] [error] forcing termination of child #0 (handle 468)
+[Thu Aug 09 12:11:45 2007] [notice] Initializing etag from c:/program files/cscopx/mdc/apache/logs/etag-state
+[Thu Aug 09 14:39:00 2007] [error] [client 10.3.0.16] Invalid method in request \\x16\\x03

@@ -1,0 +1,47 @@
+[Fri May 10 10:35:15 2013] [notice] Parent: Created child process 2964
+[Fri May 10 10:35:16 2013] [notice] Child 2964: Child process is running
+[Fri May 10 10:35:16 2013] [notice] Child 2964: Acquired the start mutex.
+[Fri May 10 10:35:16 2013] [notice] Child 2964: Starting 250 worker threads.
+[Fri May 10 10:35:35 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/favicon.ico
+[Fri May 10 10:35:50 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/favicon.ico
+[Fri May 10 10:56:35 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 11:01:18 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 10 11:01:18 2013] [notice] Child 2964: Exit event signaled. Child process is ending.
+[Fri May 10 11:01:19 2013] [notice] Child 2964: Released the start mutex
+[Fri May 10 11:01:20 2013] [notice] Child 2964: Waiting for 250 worker threads to exit.
+[Fri May 10 11:01:20 2013] [notice] Child 2964: All worker threads have exited.
+[Fri May 10 11:01:20 2013] [notice] Child 2964: Child process is exiting
+[Fri May 10 11:01:20 2013] [notice] Parent: Child process exited successfully.
+[Fri May 10 11:19:53 2013] [notice] Parent: Created child process 1148
+[Fri May 10 11:19:53 2013] [notice] Child 1148: Child process is running
+[Fri May 10 11:19:53 2013] [notice] Child 1148: Acquired the start mutex.
+[Fri May 10 11:19:53 2013] [notice] Child 1148: Starting 250 worker threads.
+[Fri May 10 11:20:12 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 11:21:27 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 11:23:54 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 11:24:13 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 11:24:59 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?module=Dashboard&action=index
+[Fri May 10 11:36:27 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 10 11:36:27 2013] [notice] Child 1148: Exit event signaled. Child process is ending.
+[Fri May 10 11:36:28 2013] [notice] Child 1148: Released the start mutex
+[Fri May 10 11:36:29 2013] [notice] Child 1148: Waiting for 250 worker threads to exit.
+[Fri May 10 11:36:29 2013] [notice] Child 1148: All worker threads have exited.
+[Fri May 10 11:36:29 2013] [notice] Child 1148: Child process is exiting
+[Fri May 10 11:36:29 2013] [notice] Parent: Child process exited successfully.
+[Fri May 10 11:36:39 2013] [notice] Parent: Created child process 5828
+[Fri May 10 11:36:39 2013] [notice] Child 5828: Child process is running
+[Fri May 10 11:36:39 2013] [notice] Child 5828: Acquired the start mutex.
+[Fri May 10 11:36:39 2013] [notice] Child 5828: Starting 250 worker threads.
+[Fri May 10 11:36:43 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?action=index&module=Home
+[Fri May 10 16:36:00 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?module=Settings&action=index&parenttab=
+[Fri May 10 16:37:00 2013] [error] [client 127.0.0.1] File does not exist: C:/Program Files/vtigercrm-5.4.0/apache/htdocs/vtigerCRM/themes/softed/images/clock_bg.gif, referer: http://localhost:8888/index.php?module=Users&action=DetailView&record=1&modechk=prefview
+[Sat May 11 08:02:59 2013] [warn] pid file C:/Program Files/vtigercrm-5.4.0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 11 08:03:04 2013] [notice] Parent: Created child process 328
+[Sat May 11 08:03:04 2013] [notice] Child 328: Child process is running
+[Sat May 11 08:03:04 2013] [notice] Child 328: Acquired the start mutex.
+[Sat May 11 08:03:05 2013] [notice] Child 328: Starting 250 worker threads.
+[Wed May 15 08:17:50 2013] [warn] pid file C:/Program Files/vtigercrm-5.4.0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 15 08:17:55 2013] [notice] Parent: Created child process 2256
+[Wed May 15 08:17:55 2013] [notice] Child 2256: Child process is running
+[Wed May 15 08:17:55 2013] [notice] Child 2256: Acquired the start mutex.
+[Wed May 15 08:17:55 2013] [notice] Child 2256: Starting 250 worker threads.
